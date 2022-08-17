@@ -33,4 +33,4 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 
 ## Raspberry Pi Configuration
 
-
+[GaragePi_Setup](garagepi-setup.md)
