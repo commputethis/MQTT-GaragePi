@@ -26,6 +26,10 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 
 [Home_Assistant/homeassistant-install.md](https://github.com/commputethis/Home_Automation/blob/b06ed09f42888f7c8032cd346297573c028b0a97/Home_Assistant/homeassistant-install.md)
 
+## Install & Configure MQTT on Home Assistant
+
+[Home_Assistant/ha-gqtt.md](https://github.com/commputethis/Home_Automation/blob/c1dc4482a97683cdbc00e032beea723595e2d6bc/Home_Assistant/ha-mqtt.md)
+
 ## Raspberry Pi Configuration
 
-1. 
+
