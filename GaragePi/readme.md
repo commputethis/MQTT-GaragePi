@@ -24,7 +24,7 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 
 ## Setup Home Assistant
 
-[homeassistant.md](../Home_Assistant/homeassistant.md)
+[homeassistant.md](Home_Assistant/homeassistant-install.md)
 
 ## Raspberry Pi Configuration
 
