@@ -55,3 +55,5 @@ This guide is how I setup my Home Assistant initially for my GaragePi usage whil
 13. Click the **NEXT** link at the bottom
 14. Click the **FINISH** link at the bottom of the devices found window
 15. Initial configuration is complete
+
+I would recommend at this point getting into your router and setting a reservation (sometimes called fixed ip) for your Home Assistant so it keeps the same IP address each time it boots up.
