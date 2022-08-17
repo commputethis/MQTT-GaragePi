@@ -2,14 +2,14 @@
 
 ## Background
 
-I found this setup that was posted by [Renjith Nair](https://renjithn.com/garagepi-garage-opener-using-raspberry-pi/), but found the instructions listed either made assumptions on how to do something or have changed with newer releases of software.  Below are the steps I took to create my GaragePi and get it working with Home Assistant.  I also modified it to work my garage door opener lights.
+I found this setup that was posted by [Renjith Nair](https://renjithn.com/garagepi-garage-opener-using-raspberry-pi/) using MQTT and Home Assistant , but found the instructions listed either made assumptions on how to do something or have changed with newer releases of software.  Below are the steps I took to create my GaragePi and get it working with Home Assistant.  I also modified it to work my garage door opener lights.
 
 A little additional background.  I have had a Garage_Pi setup for about 6 years using [Andrew Shillday's setup](https://github.com/andrewshilliday/garage-door-controller).  However, I broke it a while back while trying to better secure it and trying to add some additional functionality.  I didn't have the time or knowledge to get it working at that time, so it has sat for about 6 months while I was working on other things.  I recently setup Home Assistant, which got me thinking about the GaragePi again.  And that's where we are today.
 
 I will not be going through the steps to do the initial setup of a Raspberry Pi as it is well documented on [raspberrypi.com](https://www.raspberrypi.com/software/) (installing and initial setup of Raspberry Pi OS).
 
 ## Components in my setup
-- Raspberry Pi 3B running Raspberry OS (Bullseye at the time of this writing)
+- Raspberry Pi 3B running Raspberry OS Lite (Bullseye at the time of this writing)
 - A P/N 8601 Magnetic Switch for each Garage Door (2 in my case)
 - Some low voltage wire (I used left over from garage door controller install)
 - A 4 Channel 5V Relay Switch Module similar to [this one](https://www.amazon.com/JBtek-Channel-Module-Arduino-Raspberry/dp/B00KTEN3TM)
