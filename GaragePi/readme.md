@@ -9,6 +9,7 @@ A little additional background.  I have had a Garage_Pi setup for about 6 years 
 I will not be going through the steps to do the initial setup of a Raspberry Pi as it is well documented on [raspberrypi.com](https://www.raspberrypi.com/software/) (installing and initial setup of Raspberry Pi OS).
 
 ## Components in my setup
+
 - Raspberry Pi 3B running Raspberry OS Lite (Bullseye at the time of this writing)
 - 16GB SD card for GaragePi
 - A P/N 8601 Magnetic Switch for each Garage Door (2 in my case)
@@ -20,7 +21,7 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 - A mounting board (plastic) that I found somewhere years ago.  I will also likely redo this and design something to print (or find something to print) to hold the components to help with the WAF (Wife Acceptance Factor).
 - Home Assistant
   - Below I will cover how I set this up on a Raspberry Pi and it's actually pretty much identical to installing Raspberry Pi OS.
-  - I am using a Raspberry Pi 4 to run it, but it can be run on other OS's also.  Check out [home-assistant.io]https://www.home-assistant.io) for more information.
+  - I am using a Raspberry Pi 4 to run it, but it can be run on other OS's also.  Check out [home-assistant.io](https://www.home-assistant.io) for more information.
   - I am using a 64GB SD card for my Home Assistant.  I wanted to make sure to have a decent amount of storage for it.
 
 ## Setup Home Assistant
@@ -34,3 +35,7 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 ## Raspberry Pi Configuration
 
 [GaragePi_Setup](garagepi-setup.md)
+
+## Add MQTT Switches & Sensors in Home Assisant
+
+[Home_Assisant/ha-switches.md](https://github.com/commputethis/Home_Automation/blob/c1dc4482a97683cdbc00e032beea723595e2d6bc/Home_Assistant/ha-mqtt.md)
