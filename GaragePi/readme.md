@@ -38,4 +38,4 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 
 ## Add MQTT Switches & Sensors in Home Assisant
 
-[Home_Assisant/ha-switches.md](https://github.com/commputethis/Home_Automation/blob/c1dc4482a97683cdbc00e032beea723595e2d6bc/Home_Assistant/ha-mqtt.md)
+[Home_Assisant/ha-switches.md](https://github.com/commputethis/Home_Automation/blob/459701293d10774351d5b30911d0f7f5e2128adc/Home_Assistant/ha-switches.md)
