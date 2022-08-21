@@ -18,6 +18,8 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 - A bread board to make things a little easier to connect (I will likely remove this at some point)
 - A GPIO breakout similar to [this one](https://www.amazon.com/Adafruit-2028-Assembled-T-Cobbler-Plus/dp/B00OG4X0DK)
   - I will likely change this out to one of [these](https://www.amazon.com/Ultra-Small-Status-Terminal-Breakout-Raspberry/dp/B09QXR6RL7) at some point to clean it up a little.
+- Wall Garage Door opener remotes.
+  - I used these versus connecting to the garage door opener directly from the relay or connecting to my existing wallmount door controllers.  I wanted to be able to control the lights on the door openers and didn't want to run wires all the way to the wall controllers.
 - A mounting board (plastic) that I found somewhere years ago.  I will also likely redo this and design something to print (or find something to print) to hold the components to help with the WAF (Wife Acceptance Factor).
 - Home Assistant
   - Below I will cover how I set this up on a Raspberry Pi and it's actually pretty much identical to installing Raspberry Pi OS.
@@ -26,16 +28,20 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 
 ## Setup Home Assistant
 
-[Home_Assistant/homeassistant-install.md](https://github.com/commputethis/Home_Automation/blob/b06ed09f42888f7c8032cd346297573c028b0a97/Home_Assistant/homeassistant-install.md)
+[Home_Assistant/homeassistant-install.md](Home_Assistant/homeassistant-install.md)
 
 ## Install & Configure MQTT on Home Assistant
 
-[Home_Assistant/ha-gqtt.md](https://github.com/commputethis/Home_Automation/blob/c1dc4482a97683cdbc00e032beea723595e2d6bc/Home_Assistant/ha-mqtt.md)
+[Home_Assistant/ha-gqtt.md](Home_Assistant/ha-mqtt.md)
 
 ## Raspberry Pi Configuration
 
-[GaragePi_Setup](garagepi-setup.md)
+[GaragePi_Setup](GaragePi/garagepi-setup.md)
 
 ## Add MQTT Switches & Sensors in Home Assisant
 
-[Home_Assisant/ha-switches.md](https://github.com/commputethis/Home_Automation/blob/459701293d10774351d5b30911d0f7f5e2128adc/Home_Assistant/ha-switches.md)
+[Home_Assisant/ha-switches.md](Home_Assistant/ha-switches.md)
+
+## Wire up the components
+
+[GaragePi_Connections](GaragePi/garagepi-connections.md)

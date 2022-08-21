@@ -31,19 +31,19 @@ Also, I used a breadboard to make the connections easier, but it is not necessar
 
 ## Images
 
-Below are a lot of images.  I was trying to get some different angles to help be able to better see how it is connected.
+Below are a lot of images.  I was trying to get some different angles to help be able to better see how it is connected.  
 
-![Wide-shot](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Full_Shot.jpg)  
-![Relay1](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Relay1.jpg)  
-![Relay2](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Relay2.jpg)  
-![Relay3](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Relay3.jpg)  
-![Relay4](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Relay4.jpg)  
-![Breadboard1](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard1.jpg)  
-![Breadboard2](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard2.jpg)  
-![Breadboard3](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard3.jpg)  
-![Breadboard4](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard4.jpg)  
-![Breadboard5](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard5.jpg)  
-![Breadboard6](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard6.jpg)  
-![Controllers_back](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Controllers_back.jpg)  
-![Controllers_front](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Controllers_front.jpg)  
-![Door_Sensor](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/DoorSensor.jpg)
+![Wide-shot](GaragePi/images/Full_Shot.jpg)  
+![Relay1](GaragePi/images/Relay1.jpg)  
+![Relay2](GaragePi/images/Relay2.jpg)  
+![Relay3](GaragePi/images/Relay3.jpg)  
+![Relay4](GaragePi/images/Relay4.jpg)  
+![Breadboard1](GaragePi/images/Breadboard1.jpg)  
+![Breadboard2](GaragePi/images/Breadboard2.jpg)  
+![Breadboard3](GaragePi/images/Breadboard3.jpg)  
+![Breadboard4](GaragePi/images/Breadboard4.jpg)  
+![Breadboard5](GaragePi/images/Breadboard5.jpg)  
+![Breadboard6](GaragePi/images/Breadboard6.jpg)  
+![Controllers_back](GaragePi/images/Controllers_back.jpg)  
+![Controllers_front](GaragePi/images/Controllers_front.jpg)  
+![Door_Sensor](GaragePi/images/DoorSensor.jpg)
