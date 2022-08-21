@@ -28,3 +28,22 @@ Also, I used a breadboard to make the connections easier, but it is not necessar
 
 1. Attach the switch part of the sensor (the side that wires connect to) on the wall just above the garage door and the magnet part of the sensor on the top of the door.
 2. Connect a wire to each connection on the sensor and connect the other end to a GPIO GND Pin and GPIO 21 Pin on the GaragePi.  For the second door, if you are using one, connect the GaragePi side to GPIO GND Pin and GPIO 17 Pin.
+
+## Images
+
+Below are a lot of images.  I was trying to get some different angles to help be able to better see how it is connected.
+
+![Wide-shot](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Full_Shot.jpg)  
+![Relay1](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Relay1.jpg)  
+![Relay2](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Relay2.jpg)  
+![Relay3](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Relay3.jpg)  
+![Relay4](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Relay4.jpg)  
+![Breadboard1](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard1.jpg)  
+![Breadboard2](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard2.jpg)  
+![Breadboard3](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard3.jpg)  
+![Breadboard4](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard4.jpg)  
+![Breadboard5](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard5.jpg)  
+![Breadboard6](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Breadboard6.jpg)  
+![Controllers_back](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Controllers_back.jpg)  
+![Controllers_front](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/Controllers_front.jpg)  
+![Door_Sensor](https://github.com/commputethis/Home_Automation/blob/b859bcf51f1d524cee031261e98ad31f46713aec/GaragePi/images/DoorSensor.jpg)
