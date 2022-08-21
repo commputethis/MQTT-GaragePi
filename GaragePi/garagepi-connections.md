@@ -27,7 +27,7 @@ Also, I used a breadboard to make the connections easier, but it is not necessar
 ## Connecting the Sensors
 
 1. Attach the switch part of the sensor (the side that wires connect to) on the wall just above the garage door and the magnet part of the sensor on the top of the door.
-2. Connect a wire to each connection on the sensor and connect the other end to a GPIO GND Pin and GPIO 21 Pin on the GaragePi.  For the second door, if you are using one, connect the GaragePi side to GPIO GND Pin and GPIO 17 Pin.
+2. Connect a wire to NO (for normally open) and to COM (common/ground) on the sensor and connect the other ends to a GPIO GND Pin and GPIO 21 Pin on the GaragePi.  For the second door, if you are using one, connect the GaragePi side to GPIO GND Pin and GPIO 17 Pin.
 
 ## Images
 
