@@ -38,7 +38,7 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 
 [GaragePi_Setup](GaragePi/garagepi-setup.md)
 
-## Add MQTT Switches & Sensors in Home Assisant
+## Add MQTT Switches & Sensors in Home Assistant
 
 [Home_Assisant/ha-switches.md](Home_Assistant/ha-switches.md)
 
