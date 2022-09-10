@@ -7,7 +7,7 @@
     - 8GB or 16GB should be plenty big enough for this.
 3. Once Imager is installed, launch it.
     - Note: I am doing this on Ubuntu, but it should be similar on MacOS and Windows
-   ![Imager](./images/Imager.png)
+    ![Imager](./images/Imager.png)
 4. Click the **CHOOSE OS** button
     ![GaragePi1](./images/GaragePi1.png)
 5. Click the **Raspberry Pi OS (other)** option in the list
