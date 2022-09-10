@@ -22,10 +22,10 @@
     ![GaragePi5](./images/GaragePi5.png)
 10. Fill out the items in the following images to fit your environment and then click the **SAVE** button.
     - It is important to set all of this up now as it will make it where you don't need to change the configuration once you put it into your RPi.  Make sure you enable SSH, set a username and password, and make note of the username and password as you will need that to SSH into the device.  
-    ![GaragePi6](./images/GaragePi6.png)  
-    ![GaragePi7](./images/GaragePi7.png)  
-    ![GaragePi8](./images/GaragePi8.png)  
-    ![GaragePi9](./images/GaragePi9.png)  
+  ![GaragePi6](./images/GaragePi6.png)  
+  ![GaragePi7](./images/GaragePi7.png)  
+  ![GaragePi8](./images/GaragePi8.png)  
+  ![GaragePi9](./images/GaragePi9.png)  
 11. Click the **WRITE** button  
     ![GaragePi10](./images/GaragePi10.png)
 12. Click the **YES** button to confirm you want to continue and erase anything that may exist on the SD card  
