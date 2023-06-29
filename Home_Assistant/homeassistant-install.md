@@ -1,6 +1,6 @@
 # Setup Home Assistant
 
-This guide is how I setup my Home Assistant initially for my GaragePi usage while on my home network.  There are many videos, blogs, etc. out there for other add-ons and setup information.  Since it is well documented elsewhere, I am not including how to setup external access to Home Assistant.
+This guide is how I setup my Home Assistant initially for my GaragePi usage while on my home network.  There are many videos, blogs, etc. out there for other add-ons and setup information.  Since it is well documented elsewhere, I am not including how to setup external access to Home Assistant.  
 
 ## Install Home Assistant on Raspberry Pi
 
