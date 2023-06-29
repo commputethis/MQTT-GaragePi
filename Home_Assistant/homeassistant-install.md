@@ -41,17 +41,17 @@ This guide is how I setup my Home Assistant initially for my GaragePi usage whil
     - Note: do not put https, but rather http only
     - The **:8123** at the end signifies the port number we are connecting to.  Without that port listed, you would not be able to access the Home Assistant website.
     - It can take a little while for Home Assistant to bootup the first time and be ready for use.  You will see the following until it is ready.  
-    ![HomeAssistantStartup](./HomeAssistant1.png)
+    ![HomeAssistantStartup](./images/HomeAssistant1.png)
 6. Once it is ready to go, you will see the following.  
-    ![HomeAssistantAccount](./HomeAssistant2.png)
+    ![HomeAssistantAccount](./images/HomeAssistant2.png)
 7. Fill in the information requested and make sure to take note of the information as it will be used to login.
 8. Click the **CREATE ACCOUNT** button
 9. Enter a name you would like for your Home Assistant installation (I left the default of "Home")  
-    ![HomeAssistantLocation](./HomeAssistant3.png)
+    ![HomeAssistantLocation](./images/HomeAssistant3.png)
 10. Fill out **Time Zone**, Select **Metric or Imperial**, and set **Currency** or click the **DETECT** link and let it do it automatically (I clicked DETECT and it worked perfectly for me)
 11. Click the **NEXT** link at the bottom
 12. Turn On/Off any of the telemetry data you want to send to developers at Home Assistant  
-    ![HomeAssistantTelemetry](./HomeAssistant4.png)
+    ![HomeAssistantTelemetry](./images/HomeAssistant4.png)
 13. Click the **NEXT** link at the bottom
 14. Click the **FINISH** link at the bottom of the devices found window
 15. Initial configuration is complete
