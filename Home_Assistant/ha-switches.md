@@ -3,7 +3,7 @@
 When the MQTT client on the GaragePi connects to Home Assistant, switches and sensors will be automatically added in entities.  However, adding them manually will allow better control.
 
 1. You need to modify the **/config/configuration.yaml** file on the Home Assistant machine.  To do this, you need to use an Add-on in Home Assistant. There is more than one way to do that, but I used the Studio Code Server (VS Code) add-on since I am familiar with VS Code.  
-    ![HA_Switches](Home_Assistant/images/HA_Switches.png)
+    ![HA_Switches](./images/HA_Switches.png)
 2. Go into Studio Code Server and open the **/config/configuration.yaml** file and add the following to the end:
 
     ``` ansible
@@ -79,4 +79,4 @@ When the MQTT client on the GaragePi connects to Home Assistant, switches and se
           ````
 
 Once this is completed, you can go and add a Dasboard under "Overview" and set it up as you would like.  
-![HA_Switches2](Home_Assistant/images/HA_Switches2.png)
+![HA_Switches2](./images/HA_Switches2.png)
