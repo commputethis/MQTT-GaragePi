@@ -6,7 +6,7 @@ I found this setup that was posted by [Renjith Nair](https://renjithn.com/garage
 
 A little additional background.  I have had a Garage_Pi setup for about 6 years using [Andrew Shillday's setup](https://github.com/andrewshilliday/garage-door-controller).  However, I broke it a while back while trying to better secure it and trying to add some additional functionality.  I didn't have the time or knowledge to get it working at that time, so it has sat for about 6 months while I was working on other things.  I recently setup Home Assistant, which got me thinking about the GaragePi again.  And that's where we are today.
 
-I will not be going through the steps to do the initial setup of a Raspberry Pi as it is well documented on [raspberrypi.com](https://www.raspberrypi.com/software/) (installing and initial setup of Raspberry Pi OS).
+I will not be going through the steps to do the initial setup of a Raspberry Pi as it is well documented on [raspberrypi.com](https://www.raspberrypi.com/software/) (installing and initial setup of Raspberry Pi OS).  
 
 ## Components in my setup
 
