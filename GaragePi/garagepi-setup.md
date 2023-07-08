@@ -47,7 +47,7 @@ To control the GaragePi with MQTT, we need to install some items on the Pi.  Sin
     ssh pi@ipaddress
     ```
 
-2. Enter the **password88 you entered in step 10 above
+2. Enter the **password** you entered in step 10 above
 3. Press **Enter**
 4. Run the following commands
 
