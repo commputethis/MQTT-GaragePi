@@ -58,7 +58,7 @@ To control the GaragePi with MQTT, we need to install some items on the Pi.  Sin
     
     ``` shell
     sudo apt-get install supervisor
-    sudo apt-get install python-pip
+    sudo apt-get install python3-pip
     sudo pip install --upgrade virtualenv
     cd /home/pi
     virtualenv ve
