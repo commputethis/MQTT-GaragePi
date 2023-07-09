@@ -11,8 +11,10 @@ I will not be going through the steps to do the initial setup of a Raspberry Pi 
 ## Components in my setup
 
 - Raspberry Pi 3B running Raspberry OS Lite (Bullseye at the time of this writing)
+  - Raspberry Pi 4 or Raspberry Pi Zero W will work for this as well.
 - 16GB SD card for GaragePi
 - A P/N 8601 Magnetic Switch for each Garage Door (2 in my case)
+- A 3 pin PIR Motion Sensor
 - Some low voltage wire (I used left over from garage door controller install)
 - A 4 Channel 5V Relay Switch Module similar to [this one](https://www.amazon.com/JBtek-Channel-Module-Arduino-Raspberry/dp/B00KTEN3TM)
 - A bread board to make things a little easier to connect (I will likely remove this at some point)
