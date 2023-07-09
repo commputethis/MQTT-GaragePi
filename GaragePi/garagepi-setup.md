@@ -138,6 +138,13 @@ To control the GaragePi with MQTT, we need to install some items on the Pi.  Sin
         off_payload: "OFF"
         pullup: yes
         pulldown: no
+      - name: sensor13
+        module: raspberrypi
+        pin: 13 # GPIO
+        on_payload: "ON"
+        off_payload: "OFF"
+        pullup: yes
+        pulldown: no
     ```
 
 6. The next step is to setup pi-mqtt-gpio as a daemon so it will run when the pi is restarted.  To do this, you need to create a supervisor config: **/etc/supervisor/conf.d/pi-mqtt-gpio.conf**
