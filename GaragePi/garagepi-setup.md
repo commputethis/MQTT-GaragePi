@@ -76,6 +76,7 @@ To control the GaragePi with MQTT, we need to install some items on the Pi.  Sin
     - Below is my configuration.  You will need to modify it to use your **mqtt_broker_ip** and **mqtt_broker_port** (IP of Home Assistant if following this whole guide and default port of 1883) and **user** and **password** (This would be the username and password we took note of in step 17 of the mqtt setup on Home Assistant)
     - I used GPIO pins 23, 24, 25, and 26 to control the relays.  Two are for the garage door openers and 2 are for the lights on the garage door openers.
     - I used GPIO pins 21 and 17 as inputs for the magnetic switches (to know if the doors are open or closed)
+    - I used GPIO pin 13 as input for a motion sensor switch (used to turn lights on automatically)
 
     ``` shell
     mqtt:
