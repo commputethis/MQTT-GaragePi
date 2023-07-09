@@ -76,6 +76,10 @@ When the MQTT client on the GaragePi connects to Home Assistant, switches and se
           qos: 0
           device_class: garage_door
           force_update: true
+        - name: "Garage Pi Sensor"
+          state_topic: "home/garage/input/sensor13"
+          device_class: motion
+          off_delay: 5
           ````
 
 Once this is completed, you can go and add a Dasboard under "Overview" and set it up as you would like.  
