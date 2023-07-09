@@ -10,7 +10,7 @@ Also, I used a breadboard to make the connections easier, but it is not necessar
 
 ## Connecting the Relays
 
-1. Connect the VCC pin on the relay module, which is the power, to one of the 5V GPIO Pins on the GaragePi
+1. Connect the VCC pin on the relay module, which is the power, to one of the 5V GPIO pins on the GaragePi
 2. Connect each "IN" pin (1-4 or how ever many relays you are using) on the relay module to GPIO pin 23-26 on the GaragePi
     - In my case I have the following:
         - 1IN <--> GPIO pin 23
@@ -24,10 +24,16 @@ Also, I used a breadboard to make the connections easier, but it is not necessar
 
 *Note: if using an additional garage door controller like I did, you may need to clip off any LED that is on the board.  I found without doing this, it was drawing too much power from the garage door opener that it put it into "vacation" mode and the wireless controllers would not work.*
 
-## Connecting the Sensors
+## Connecting the Magnetic Switch Sensors
 
 1. Attach the switch part of the sensor (the side that wires connect to) on the wall just above the garage door and the magnet part of the sensor on the top of the door.
 2. Connect a wire to NO (for normally open) and to COM (common/ground) on the sensor and connect the other ends to a GPIO GND Pin and GPIO 21 Pin on the GaragePi.  For the second door, if you are using one, connect the GaragePi side to GPIO GND Pin and GPIO 17 Pin.
+
+## Connecting the Motion Sensor Switch
+
+1. Connect the GND pin to a GND GPIO pin on the GaragePi
+2. Connect the VCC pin on the motion sensor, which is the power, to one of the 5V GPIO pins on the GaragePi
+3. Connect the OUT pin on the motion sensor to GPIO pin 13 on the GaragePi
 
 ## Images
 
